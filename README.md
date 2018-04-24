@@ -13,3 +13,8 @@ Forritið er búið til í Android Studio og því þarf að hafa það sett upp
 
 Hægt er að hala niður forritinu á þessari síðu (clone or download)
 
+
+### Myndir
+
+![Alt text](https://www.dropbox.com/sh/v138mv6ti0skv2q/AADarhnNeM2yQqu_ISsR0yVea?dl=0&preview=mynd1.PNG)
+
