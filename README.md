@@ -16,5 +16,5 @@ Hægt er að hala niður forritinu á þessari síðu (clone or download)
 
 ### Myndir
 
-![Alt tag](https://www.dropbox.com/sh/v138mv6ti0skv2q/AADarhnNeM2yQqu_ISsR0yVea?dl=0&preview=mynd1.PNG)
+![Alt tag](https://raw.githubusercontent.com/mej3hi/screenshot/master/mynd1.PNG)
 
