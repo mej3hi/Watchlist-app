@@ -18,3 +18,12 @@ Hægt er að hala niður forritinu á þessari síðu (clone or download)
 
 ![Alt tag](https://raw.githubusercontent.com/mej3hi/screenshot/master/mynd1.PNG)
 
+
+![Alt tag](https://raw.githubusercontent.com/mej3hi/screenshot/master/mynd2.PNG)
+
+
+![Alt tag](https://raw.githubusercontent.com/mej3hi/screenshot/master/mynd3.PNG)
+
+
+![Alt tag](https://raw.githubusercontent.com/mej3hi/screenshot/master/mynd4.PNG)
+
