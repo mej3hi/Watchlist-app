@@ -17,7 +17,7 @@ public class ServiceGenerator {
     /**
      * Is the api key for the themoviedatabase website.
      */
-    private static final String API_KEY = "";
+    private static final String API_KEY = "e2bb53ebcddecc21c0fa81c0ce41debf";
     /**
      * Tells what the ApiKeyInterceptor has been add to rhe Interceptors.
      */
